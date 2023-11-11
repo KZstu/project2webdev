@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/project2/static/css/main.d43c7616.css",
+    "main.js": "/project2/static/js/main.0c3e903d.js",
+    "static/js/787.f6b2eaaf.chunk.js": "/project2/static/js/787.f6b2eaaf.chunk.js",
+    "static/media/image1.jpg": "/project2/static/media/image1.4de131cb88303bdd860e.jpg",
+    "static/media/NokiaG20.jpg": "/project2/static/media/NokiaG20.5bf4757a1805d76fc185.jpg",
+    "static/media/image2.jpg": "/project2/static/media/image2.bbd54c445aded20a7da9.jpg",
+    "static/media/OPPOA17.jpg": "/project2/static/media/OPPOA17.d1458a852ea4d1f41f43.jpg",
+    "static/media/image3.jpg": "/project2/static/media/image3.a22b206cad2287831585.jpg",
+    "static/media/Iphone13.webp": "/project2/static/media/Iphone13.d229aef73c5cf76d426f.webp",
+    "static/media/Iphone11.webp": "/project2/static/media/Iphone11.1c13dfc0a3fabeb48ff6.webp",
+    "static/media/Galaxy04.jpeg": "/project2/static/media/Galaxy04.5b894eb9fb2b5162f94a.jpeg",
+    "index.html": "/project2/index.html",
+    "main.d43c7616.css.map": "/project2/static/css/main.d43c7616.css.map",
+    "main.0c3e903d.js.map": "/project2/static/js/main.0c3e903d.js.map",
+    "787.f6b2eaaf.chunk.js.map": "/project2/static/js/787.f6b2eaaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d43c7616.css",
+    "static/js/main.0c3e903d.js"
+  ]
+}
