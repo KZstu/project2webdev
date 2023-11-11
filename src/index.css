@@ -7,7 +7,17 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+path {
+  transition: transform 0.2s; /* Add a smooth transition effect */
+  transform-origin: center center; /* Set the transform origin to the center */
+}
+
+path:hover {
+  fill: rgb(0, 40, 106);
+  transform: scale(1.015); /* Scale the path by 5% on hover */
+  
+}
+
+.region:hover{
+  z-index: 250;
 }

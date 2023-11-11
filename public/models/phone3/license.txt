@@ -1,0 +1,11 @@
+Model Information:
+* title:	Samsung Phone
+* source:	https://sketchfab.com/3d-models/samsung-phone-030019d343df47e598e929a785d1e749
+* author:	Levi (https://sketchfab.com/leviromano)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Samsung Phone" (https://sketchfab.com/3d-models/samsung-phone-030019d343df47e598e929a785d1e749) by Levi (https://sketchfab.com/leviromano) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
